@@ -1,10 +1,10 @@
-# docker-image-elasticsearch-5.6.8
+# docker-image-elasticsearch
 
 ---
 
 ## 简介
 
-`elasticsearch`的`5.6.8`版本.
+`elasticsearch`
 
 做了如下修改:
 
